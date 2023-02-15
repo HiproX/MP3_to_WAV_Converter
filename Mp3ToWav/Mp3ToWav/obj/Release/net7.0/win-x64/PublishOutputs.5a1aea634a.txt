@@ -1,0 +1,2 @@
+C:\Users\anapc\source\repos\Mp3ToWav\Mp3ToWav\bin\Release\net7.0\publish\win-x64\Mp3ToWav.pdb
+C:\Users\anapc\source\repos\Mp3ToWav\Mp3ToWav\bin\Release\net7.0\publish\win-x64\Mp3ToWav.exe
